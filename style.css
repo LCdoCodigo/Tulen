@@ -182,7 +182,7 @@ overflow: hidden}
 padding-bottom: 50px;
 position: absolute;
 opacity: 0;
-bottom: 0;}
+bottom: 30px;}
 
 .TagPeople {display: inline-block;
 padding: 4px 20px;
@@ -216,6 +216,8 @@ background-color: transparent;}
 .Navs:hover >div {opacity: 1;
 transition-delay: 0.4s;
 transition-duration: 0.4s;}
+
+.Navs:hover >.pnText {bottom: 0;}
 
 
 
