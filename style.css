@@ -682,9 +682,9 @@ position: absolute;
 opacity: 0;
 transition: 0.3s;}
 
-#ArrowLeft {left: 250px;}
+#ArrowLeft {left: 650px;}
 
-#ArrowRight {right: 160px;}
+#ArrowRight {right: 560px;}
 
 #Detals>a>h4 {color: #fff;
 max-width: 350px;
@@ -695,9 +695,9 @@ font-weight: 600;}
 
 #Detals>a:hover >svg{opacity: 1;}
 
-#Detals>a:hover >#ArrowLeft {left: 200px;}
+#Detals>a:hover >#ArrowLeft {left: 500px;}
 
-#Detals>a:hover >#ArrowRight {right: 110px;}
+#Detals>a:hover >#ArrowRight {right: 410px;}
 
 
 
